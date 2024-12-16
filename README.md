@@ -8,7 +8,7 @@
 
 📬 You can reach me at your-email.
 
-🔗 Pronouns: He/Him. I can live with She/Her.
+🔗 Pronouns: He/Him.
 <!---
 Nagato-Yuzuru/Nagato-Yuzuru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
