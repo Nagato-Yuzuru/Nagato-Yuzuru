@@ -1,6 +1,4 @@
-👋 Hello, I'm a dedicated Software Development Engineer in Test (SDET) with a strong background in GoLang and Python. 🛠️
-
-📚 I also was a developer for educational software, enhancing learning experiences through innovative technology.
+👋 Hello, I'm a Software Development Engineer in back-end with a strong background in Golang and Python. 🛠️
 
 ☕️ As a coffee enthusiast, I find that a great cup fuels my passion for improving testing practices and developing effective tools every day!
 
